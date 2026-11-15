@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e4d250-44e5-49ce-b480-c6d0b77461fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BynaryTree.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/BynartTreeTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BinarySearchTree.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/BinarySearchTreeTest.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="b1e4d250-44e5-49ce-b480-c6d0b77461fa" name="Changes" comment="add Bynary Tree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.BynartTreeTest.executor": "Run",
+    "JUnit.BynaryTreeTest (1).executor": "Run",
     "JUnit.BynaryTreeTest.executor": "Run",
     "JUnit.BynaryTreeTest.левый прямой обход (Root, Left, Right).executor": "Run",
     "Kotlin.BynaryTreeKt.executor": "Debug",
@@ -118,6 +113,19 @@
       <option name="presentableId" value="Default" />
       <updated>1792937070886</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Bynary Tree">
+      <option name="closed" value="true" />
+      <created>1794724542454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794724542454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Bynary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Bynary Tree" />
   </component>
 </project>
